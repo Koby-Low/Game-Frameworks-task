@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Pushable
+  - Pickup
+  - Crop
+  - PickUp
   layers:
   - Default
   - TransparentFX
